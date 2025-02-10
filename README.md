@@ -1,5 +1,5 @@
-# Admin Program Access Bypass
-Admin Program Access Bypass (APAB) is a simple and easy to use batch file that allows you to run any program without admin permissions.
+# Admin Program Access Bypass (APAB)
+Admin Program Access Bypass is a simple and easy to use batch file that allows you to run any program without admin permissions.
 You will most likely be familliar with this code if you have prior hacking knowledge.
 
 # How to use APAB
